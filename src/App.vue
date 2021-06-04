@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <div class="column is-half is-offset-one-quarter">
+      <h4 class="is-size-4">Pokedex Simples em Vue</h4>
       <div v-for="(pokemon, index) in pokemons" :key="index">
         <Pokemon :name="pokemon.name" :url="pokemon.url" :num="index + 1" />
       </div>
