@@ -1,5 +1,7 @@
 # pokedex
 
+Projeto de estudo de Vue. Criando uma Pokedex utilizando a API gratuita PokeAPI - https://pokeapi.co/
+
 ## Project setup
 ```
 yarn install
