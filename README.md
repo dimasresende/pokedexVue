@@ -2,6 +2,8 @@
 
 Projeto de estudo de Vue. Criando uma Pokedex utilizando a API gratuita PokeAPI - https://pokeapi.co/
 
+Usando o video tutorial do Victor Lima - Guia do Programador. Playlist: https://www.youtube.com/watch?v=kmsM_hHrDHE
+
 ## Project setup
 ```
 yarn install
